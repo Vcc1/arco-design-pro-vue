@@ -60,7 +60,7 @@
     }
 
     &-collected {
-      .message-item-actions-collect {
+      .chat-item-actions-collect {
         color: rgb(var(--gold-6));
       }
     }
@@ -68,7 +68,7 @@
     &:hover {
       background-color: rgb(var(--gray-2));
 
-      .message-item-actions {
+      .chat-item-actions {
         opacity: 1;
       }
     }
